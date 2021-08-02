@@ -4,9 +4,9 @@ Utilizing the raw data from the CitiBike site, I have selected the time frame of
 From the dataset, there are data regarding the start and end stations details (Name, ID, and Geo Coordinates) and user details (user type, gender, trip durations, birth year)
 6 months worth of data are combined to investigate the changes in trips recorded throughout.
 
-Identifity the most popular start and end stations
+Identify the most popular start and end stations
 
-Identifity the least popular start and end stations
+Identify the least popular start and end stations
 
 Identify if the age of the user correlates to usage duration (Younger User use it more)
 
