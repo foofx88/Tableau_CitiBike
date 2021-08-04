@@ -1,6 +1,6 @@
 <h1><u>CitiBike Data Visualisation</u></h1>
 
-Utilizing the <a href="https://www.citibikenyc.com/system-data">raw data</a> from the CitiBike site, I have selected the time frame of 6 months, from July to December 2020 and combined the data.
+Utilizing the <a href="https://www.citibikenyc.com/system-data" target="_blank">raw data</a> from the CitiBike site, I have selected the time frame of 6 months, from July to December 2020 and combined the data.
 From the dataset, there are data regarding the start and end stations details (Name, ID, and Geo Coordinates) and user details (user type, gender, trip durations, birth year)
 6 months worth of data are combined to investigate the changes in trips recorded throughout.
 
@@ -61,7 +61,7 @@ We have filtered down users who are not subscribers and have not registered thei
 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 Checkout the Visualisations on <a href="https://public.tableau.com/views/Citibike_16277367443490/CitiBikeStory?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"> Tableau here <br>
 <img src="/snips/story.gif" alt="" width="600" height="454"></a> 
 
