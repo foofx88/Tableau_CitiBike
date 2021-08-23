@@ -1,4 +1,5 @@
-<h1><u>CitiBike Data Visualisation</u></h1>
+<h3>Tableau Demo - CitiBike Data Visualisation</h3>
+<hr>
 
 Utilizing the <a href="https://www.citibikenyc.com/system-data" target="_blank">raw data</a> from the CitiBike site, I have selected the time frame of 6 months, from July to December 2020 and combined the data.
 From the dataset, there are data regarding the start and end stations details (Name, ID, and Geo Coordinates) and user details (user type, gender, trip durations, birth year)
